@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#292929</color>
+    <color name="primaryDark">#292929</color>
+    <color name="accent">#FDBE3B</color>
+    <color name="white">#FFFF</color>
+    <color name="searchIcon">#DBDBDB</color>
+    <color name="textHint">#7B7B7B</color>
+    <color name="quickActionBackgound">#2f2d2e</color>
+    <color name="icon">#A4A4A4</color>
+    <color name="textSubtilte">#CECECE</color>
+    <color name="defaultNoteColor">#333333</color>
+    <color name="noteSubtitleText">#FAFAFAFA</color>
+    <color name="miscellBackground">#1F1F1F</color>
+    <color name="noteColor2">#FDBE3B</color>
+    <color name="noteColor3">#FF4842</color>
+    <color name="noteColor4">#3A62FC</color>
+    <color name="noteColor5">#000000</color>
+    <color name="delete">#FF4842</color>
+    <color name="searchBackground">#3333</color>
+</resources>
